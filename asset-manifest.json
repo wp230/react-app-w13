@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/react-app-w13/static/js/main.210d050d.js",
+    "static/media/로고.png": "/react-app-w13/static/media/로고.b10ad9d8b485e5a4820e.png",
+    "static/media/살라.png": "/react-app-w13/static/media/살라.1f70e2c2006077a04232.png",
+    "static/media/아놀드.png": "/react-app-w13/static/media/아놀드.30169247cabd16171deb.png",
+    "static/media/소보슬러이.png": "/react-app-w13/static/media/소보슬러이.e5eae4722a0c2bea6b25.png",
+    "static/media/반데이크.png": "/react-app-w13/static/media/반데이크.7ae25485730a72965d22.png",
+    "index.html": "/react-app-w13/index.html",
+    "main.210d050d.js.map": "/react-app-w13/static/js/main.210d050d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.210d050d.js"
+  ]
+}
